@@ -50,6 +50,9 @@ Pilih Brance **master** -> **root** -> Save
 ![image](https://user-images.githubusercontent.com/20555943/148687824-2526a3ab-3b25-49cd-97ab-fe53d8a5c626.png)
 9. Kunjungi website yang sudah berhasil di publish.
 ![image](https://user-images.githubusercontent.com/20555943/148687877-0755957c-6366-497a-a672-dfb2d15ba40d.png)
+Hasil:
+![image](https://user-images.githubusercontent.com/20555943/148687960-e0fc1c41-abd8-4967-a63a-cee654880da4.png)
+
 
 Terima kasih! Semoga bermanfaat!
 
