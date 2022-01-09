@@ -41,6 +41,10 @@ Jika muncul error seperti di bawah ini:
 error: src refspec main does not match any
 error: failed to push some refs to 'https://github.com/fauziahkipau/website-github.git'
 ```
+**Solusi**, Jalankan perintah: 
+```ruby
+git push origin HEAD:master
+```
 8. Setelah sudah berhasil membuat file index. Buka kembali halaman git, lalu pilih **Settings** -> Scroll ke bawah pilih GitHub Page. Klik link Check it out here!
 ![image](https://user-images.githubusercontent.com/20555943/148686473-8c937a04-c62e-4e49-88ff-ea2d10e3693a.png)
 
