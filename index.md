@@ -6,17 +6,10 @@ layout: default
 
 1. **Registrasi akun github**
 2. **Membuat repository**
-Klik tombol New
-
-
+Klik tombol **New**
 ![image](https://user-images.githubusercontent.com/20555943/148685765-6f710d4b-b23e-4297-bb80-23c0154b24c2.png)
-
-
 3. Isi Repository name. Saya pakai nama: website-github -> pilih public -> klik tombol Create repository.
-
 ![image](https://user-images.githubusercontent.com/20555943/148685840-cc798842-1c93-4b3b-80d2-743adcaaab97.png)
-
-
 4. **Membuat repository di komputer** 
 Contoh kita membuat sebuah file index.md
 ```ruby
@@ -26,23 +19,15 @@ echo "Hello World! Welcome to my website" >> index.md
 git add index.md
 git commit -m "first commit"
 ```
-
-
 5. Jalankan script di bawah ini di terminal untuk remote github. Pastikan anda berada di dalam project halaman-github.
 ```ruby
 git init
 git remote add origin https://github.com/fauziahkipau/website-github.git
 ```
-
 ![image](https://user-images.githubusercontent.com/20555943/148686728-55b04887-c525-4360-afbb-37725190b0ce.png)
-
-
 ```ruby
 git push -u origin main
 ```
-
-
-
 Ketika ingin push git muncul error seperti di bawah ini?
 ```rubby
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
@@ -50,10 +35,8 @@ remote: Please see https://github.blog/2020-12-15-token-authentication-requireme
 fatal: Authentication failed for 'https://github.com/fauziahkipau/programmer-otodidak.github.io.git/'
 ```
 **Solusi**, kunjungi link YouTube berikut: https://www.youtube.com/watch?v=iKf8-hhdWjs 
-
 8. Setelah sudah berhasil membuat file index. Buka kembali halaman git, lalu pilih **Settings** -> Scroll ke bawah pilih GitHub Page. Klik link Check it out here!
 ![image](https://user-images.githubusercontent.com/20555943/148686473-8c937a04-c62e-4e49-88ff-ea2d10e3693a.png)
-
 9. 
 
 
