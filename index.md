@@ -35,7 +35,6 @@ remote: Please see https://github.blog/2020-12-15-token-authentication-requireme
 fatal: Authentication failed for 'https://github.com/fauziahkipau/programmer-otodidak.github.io.git/'
 ```
 **Solusi**, kunjungi link YouTube berikut: https://www.youtube.com/watch?v=iKf8-hhdWjs 
-
 Jika muncul error seperti di bawah ini:
 ```ruby
 error: src refspec main does not match any
@@ -47,6 +46,10 @@ git push origin HEAD:master
 ```
 8. Setelah sudah berhasil membuat file index. Buka kembali halaman git, lalu pilih **Settings** -> Scroll ke bawah pilih GitHub Page. Klik link Check it out here!
 ![image](https://user-images.githubusercontent.com/20555943/148686473-8c937a04-c62e-4e49-88ff-ea2d10e3693a.png)
+Pilih Brance **master** -> **root** -> Save
+![image](https://user-images.githubusercontent.com/20555943/148687824-2526a3ab-3b25-49cd-97ab-fe53d8a5c626.png)
+9. Kunjungi website yang sudah berhasil di publish.
+![image](https://user-images.githubusercontent.com/20555943/148687877-0755957c-6366-497a-a672-dfb2d15ba40d.png)
 
 
 <!--
