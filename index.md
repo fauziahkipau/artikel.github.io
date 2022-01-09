@@ -37,7 +37,6 @@ fatal: Authentication failed for 'https://github.com/fauziahkipau/programmer-oto
 **Solusi**, kunjungi link YouTube berikut: https://www.youtube.com/watch?v=iKf8-hhdWjs 
 8. Setelah sudah berhasil membuat file index. Buka kembali halaman git, lalu pilih **Settings** -> Scroll ke bawah pilih GitHub Page. Klik link Check it out here!
 ![image](https://user-images.githubusercontent.com/20555943/148686473-8c937a04-c62e-4e49-88ff-ea2d10e3693a.png)
-9. 
 
 
 <!--
