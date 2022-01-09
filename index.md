@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Membuat website di github
+# Langkah mudah membuat webiste di GitHub!
 
 1. **Registrasi akun github**
 2. **Membuat repository**
