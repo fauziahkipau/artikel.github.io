@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # Langkah mudah membuat webiste di GitHub!
 
 1. **Registrasi akun github**
